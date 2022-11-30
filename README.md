@@ -1,4 +1,6 @@
 ### Hi there 👋
+#### PBJSoftware의 개발자 박동준 입니다.
+\* 현재 군 입대 중(2022.8.1~2024.1.31)으로 코드 리뷰, 프로젝트 개발 진행이 어렵습니다.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pdjdev)](https://github.com/anuraghazra/github-readme-stats)
 
